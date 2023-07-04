@@ -4,3 +4,16 @@
 --botao-azul:#167bf7;
 --cor-de-fundo:#00030c;
 }
+body {
+    background-color: var(--cor-de-fundo);
+    color: var(--branco-pricipal)
+    
+* { 
+  margin: 0;
+  pading: 0:
+}
+.principal  { 
+    background-image: url(img/backgound.png")
+    
+
+};
